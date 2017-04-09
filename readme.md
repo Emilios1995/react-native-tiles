@@ -5,7 +5,7 @@ I wrote about how this works [here](https://medium.com/@emilios1995/implementing
 ## Installation
 `npm install --save react-native-tiles`
 
-##Screenshots
+## Screenshots
 
 ![text](./screenshots/text.png)
 ![images](./screenshots/images.png)
