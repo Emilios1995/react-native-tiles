@@ -52,18 +52,18 @@ const Tile = ({text}) => {
 
 ## Props
 
-####dataSource (required)
+#### dataSource (required)
 Type: `ListView.DataSource`
 
 This is the same `DataSource` object you would use in `react-native`'s `ListView`
 
-####tilesPerRow
+#### tilesPerRow
 Type: `Number`,
 Default: `3`
 
 Tiles per row. The Tiles will be sized to be as big as possible while having an even, equal space between them 
 
-####renderItem (required)
+#### renderItem (required)
 Type: `Function (itemData -> size -> Component)`
 
 This is like the `renderRow` function in `ListView`. But here the function also gives you the resulting size of the tile. This is useful when you want to fill the Tile with an Image. For example:
