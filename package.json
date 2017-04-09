@@ -1,0 +1,21 @@
+{
+  "name": "react-native-tiles",
+  "version": "1.0.0",
+  "description": "A React-Native component to render square tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Emilio Srougo",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^15.5.3",
+    "react-native": "^0.43.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.6"
+  }
+}
