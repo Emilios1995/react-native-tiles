@@ -1,5 +1,5 @@
 A React-Native component to render equally sized and evenly spaced square tiles.
-I wrote about how this works [here](https://medium.com/@emilios1995/implementing-a-tile-view-in-react-native-a-la-ios-12f94c084f4b)
+I wrote about how this works [here](https://dev.to/emilios1995/implementing-a-tiles-view-in-react-native-a-la-ios)
 
 
 ## Installation
