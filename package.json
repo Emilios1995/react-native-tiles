@@ -1,6 +1,6 @@
 {
   "name": "react-native-tiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React-Native component to render square tiles",
   "main": "index.js",
   "scripts": {
