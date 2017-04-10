@@ -7,6 +7,7 @@ I wrote about how this works [here](https://medium.com/@emilios1995/implementing
 
 ## Screenshots
 
+![advanced](./screenshots/advanced.png)
 ![text](./screenshots/text.png)
 ![images](./screenshots/images.png)
 
